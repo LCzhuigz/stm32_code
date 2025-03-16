@@ -1,5 +1,0 @@
-D:/f407_demo_vscode/f407_demo_vscode/CMakeFiles/f407_demo_vscode.dir
-D:/f407_demo_vscode/f407_demo_vscode/CMakeFiles/edit_cache.dir
-D:/f407_demo_vscode/f407_demo_vscode/CMakeFiles/rebuild_cache.dir
-D:/f407_demo_vscode/f407_demo_vscode/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
-D:/f407_demo_vscode/f407_demo_vscode/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
