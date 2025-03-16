@@ -1,0 +1,128 @@
+[
+{
+  "directory": "D:/i2ctest",
+  "command": "D:\\software\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -ID:/i2ctest/Core/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -ID:/i2ctest/Drivers/CMSIS/Device/ST/STM32F1xx/Include -ID:/i2ctest/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\i2ctest.dir\\Core\\Src\\main.c.obj -c D:\\i2ctest\\Core\\Src\\main.c",
+  "file": "D:\\i2ctest\\Core\\Src\\main.c",
+  "output": "CMakeFiles\\i2ctest.dir\\Core\\Src\\main.c.obj"
+},
+{
+  "directory": "D:/i2ctest",
+  "command": "D:\\software\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -ID:/i2ctest/Core/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -ID:/i2ctest/Drivers/CMSIS/Device/ST/STM32F1xx/Include -ID:/i2ctest/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\i2ctest.dir\\Core\\Src\\gpio.c.obj -c D:\\i2ctest\\Core\\Src\\gpio.c",
+  "file": "D:\\i2ctest\\Core\\Src\\gpio.c",
+  "output": "CMakeFiles\\i2ctest.dir\\Core\\Src\\gpio.c.obj"
+},
+{
+  "directory": "D:/i2ctest",
+  "command": "D:\\software\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -ID:/i2ctest/Core/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -ID:/i2ctest/Drivers/CMSIS/Device/ST/STM32F1xx/Include -ID:/i2ctest/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\i2ctest.dir\\Core\\Src\\i2c.c.obj -c D:\\i2ctest\\Core\\Src\\i2c.c",
+  "file": "D:\\i2ctest\\Core\\Src\\i2c.c",
+  "output": "CMakeFiles\\i2ctest.dir\\Core\\Src\\i2c.c.obj"
+},
+{
+  "directory": "D:/i2ctest",
+  "command": "D:\\software\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -ID:/i2ctest/Core/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -ID:/i2ctest/Drivers/CMSIS/Device/ST/STM32F1xx/Include -ID:/i2ctest/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\i2ctest.dir\\Core\\Src\\stm32f1xx_it.c.obj -c D:\\i2ctest\\Core\\Src\\stm32f1xx_it.c",
+  "file": "D:\\i2ctest\\Core\\Src\\stm32f1xx_it.c",
+  "output": "CMakeFiles\\i2ctest.dir\\Core\\Src\\stm32f1xx_it.c.obj"
+},
+{
+  "directory": "D:/i2ctest",
+  "command": "D:\\software\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -ID:/i2ctest/Core/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -ID:/i2ctest/Drivers/CMSIS/Device/ST/STM32F1xx/Include -ID:/i2ctest/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\i2ctest.dir\\Core\\Src\\stm32f1xx_hal_msp.c.obj -c D:\\i2ctest\\Core\\Src\\stm32f1xx_hal_msp.c",
+  "file": "D:\\i2ctest\\Core\\Src\\stm32f1xx_hal_msp.c",
+  "output": "CMakeFiles\\i2ctest.dir\\Core\\Src\\stm32f1xx_hal_msp.c.obj"
+},
+{
+  "directory": "D:/i2ctest",
+  "command": "D:\\software\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -ID:/i2ctest/Core/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -ID:/i2ctest/Drivers/CMSIS/Device/ST/STM32F1xx/Include -ID:/i2ctest/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\i2ctest.dir\\Core\\Src\\sysmem.c.obj -c D:\\i2ctest\\Core\\Src\\sysmem.c",
+  "file": "D:\\i2ctest\\Core\\Src\\sysmem.c",
+  "output": "CMakeFiles\\i2ctest.dir\\Core\\Src\\sysmem.c.obj"
+},
+{
+  "directory": "D:/i2ctest",
+  "command": "D:\\software\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -ID:/i2ctest/Core/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -ID:/i2ctest/Drivers/CMSIS/Device/ST/STM32F1xx/Include -ID:/i2ctest/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o CMakeFiles\\i2ctest.dir\\Core\\Src\\syscalls.c.obj -c D:\\i2ctest\\Core\\Src\\syscalls.c",
+  "file": "D:\\i2ctest\\Core\\Src\\syscalls.c",
+  "output": "CMakeFiles\\i2ctest.dir\\Core\\Src\\syscalls.c.obj"
+},
+{
+  "directory": "D:/i2ctest",
+  "command": "D:\\software\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -ID:/i2ctest/Core/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -ID:/i2ctest/Drivers/CMSIS/Device/ST/STM32F1xx/Include -ID:/i2ctest/Drivers/CMSIS/Include  -mcpu=cortex-m3  -x assembler-with-cpp -MMD -MP -g -o CMakeFiles\\i2ctest.dir\\startup_stm32f103xb.s.obj -c D:\\i2ctest\\startup_stm32f103xb.s",
+  "file": "D:\\i2ctest\\startup_stm32f103xb.s",
+  "output": "CMakeFiles\\i2ctest.dir\\startup_stm32f103xb.s.obj"
+},
+{
+  "directory": "D:/i2ctest",
+  "command": "D:\\software\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -ID:/i2ctest/Core/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -ID:/i2ctest/Drivers/CMSIS/Device/ST/STM32F1xx/Include -ID:/i2ctest/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Core\\Src\\system_stm32f1xx.c.obj -c D:\\i2ctest\\Core\\Src\\system_stm32f1xx.c",
+  "file": "D:\\i2ctest\\Core\\Src\\system_stm32f1xx.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Core\\Src\\system_stm32f1xx.c.obj"
+},
+{
+  "directory": "D:/i2ctest",
+  "command": "D:\\software\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -ID:/i2ctest/Core/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -ID:/i2ctest/Drivers/CMSIS/Device/ST/STM32F1xx/Include -ID:/i2ctest/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_gpio_ex.c.obj -c D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_gpio_ex.c",
+  "file": "D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_gpio_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_gpio_ex.c.obj"
+},
+{
+  "directory": "D:/i2ctest",
+  "command": "D:\\software\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -ID:/i2ctest/Core/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -ID:/i2ctest/Drivers/CMSIS/Device/ST/STM32F1xx/Include -ID:/i2ctest/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_i2c.c.obj -c D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_i2c.c",
+  "file": "D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_i2c.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_i2c.c.obj"
+},
+{
+  "directory": "D:/i2ctest",
+  "command": "D:\\software\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -ID:/i2ctest/Core/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -ID:/i2ctest/Drivers/CMSIS/Device/ST/STM32F1xx/Include -ID:/i2ctest/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal.c.obj -c D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal.c",
+  "file": "D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal.c.obj"
+},
+{
+  "directory": "D:/i2ctest",
+  "command": "D:\\software\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -ID:/i2ctest/Core/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -ID:/i2ctest/Drivers/CMSIS/Device/ST/STM32F1xx/Include -ID:/i2ctest/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rcc.c.obj -c D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rcc.c",
+  "file": "D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rcc.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rcc.c.obj"
+},
+{
+  "directory": "D:/i2ctest",
+  "command": "D:\\software\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -ID:/i2ctest/Core/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -ID:/i2ctest/Drivers/CMSIS/Device/ST/STM32F1xx/Include -ID:/i2ctest/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rcc_ex.c.obj -c D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rcc_ex.c",
+  "file": "D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rcc_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_rcc_ex.c.obj"
+},
+{
+  "directory": "D:/i2ctest",
+  "command": "D:\\software\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -ID:/i2ctest/Core/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -ID:/i2ctest/Drivers/CMSIS/Device/ST/STM32F1xx/Include -ID:/i2ctest/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_gpio.c.obj -c D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_gpio.c",
+  "file": "D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_gpio.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_gpio.c.obj"
+},
+{
+  "directory": "D:/i2ctest",
+  "command": "D:\\software\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -ID:/i2ctest/Core/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -ID:/i2ctest/Drivers/CMSIS/Device/ST/STM32F1xx/Include -ID:/i2ctest/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_dma.c.obj -c D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_dma.c",
+  "file": "D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_dma.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_dma.c.obj"
+},
+{
+  "directory": "D:/i2ctest",
+  "command": "D:\\software\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -ID:/i2ctest/Core/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -ID:/i2ctest/Drivers/CMSIS/Device/ST/STM32F1xx/Include -ID:/i2ctest/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_cortex.c.obj -c D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_cortex.c",
+  "file": "D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_cortex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_cortex.c.obj"
+},
+{
+  "directory": "D:/i2ctest",
+  "command": "D:\\software\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -ID:/i2ctest/Core/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -ID:/i2ctest/Drivers/CMSIS/Device/ST/STM32F1xx/Include -ID:/i2ctest/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_pwr.c.obj -c D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_pwr.c",
+  "file": "D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_pwr.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_pwr.c.obj"
+},
+{
+  "directory": "D:/i2ctest",
+  "command": "D:\\software\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -ID:/i2ctest/Core/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -ID:/i2ctest/Drivers/CMSIS/Device/ST/STM32F1xx/Include -ID:/i2ctest/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_flash.c.obj -c D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_flash.c",
+  "file": "D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_flash.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_flash.c.obj"
+},
+{
+  "directory": "D:/i2ctest",
+  "command": "D:\\software\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -ID:/i2ctest/Core/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -ID:/i2ctest/Drivers/CMSIS/Device/ST/STM32F1xx/Include -ID:/i2ctest/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_flash_ex.c.obj -c D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_flash_ex.c",
+  "file": "D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_flash_ex.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_flash_ex.c.obj"
+},
+{
+  "directory": "D:/i2ctest",
+  "command": "D:\\software\\STM32CubeCLT_1.18.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DSTM32F103xB -DUSE_HAL_DRIVER -ID:/i2ctest/Core/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc -ID:/i2ctest/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -ID:/i2ctest/Drivers/CMSIS/Device/ST/STM32F1xx/Include -ID:/i2ctest/Drivers/CMSIS/Include  -mcpu=cortex-m3  -Wall -Wextra -Wpedantic -fdata-sections -ffunction-sections -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_exti.c.obj -c D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_exti.c",
+  "file": "D:\\i2ctest\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_exti.c",
+  "output": "cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F1xx_HAL_Driver\\Src\\stm32f1xx_hal_exti.c.obj"
+}
+]
